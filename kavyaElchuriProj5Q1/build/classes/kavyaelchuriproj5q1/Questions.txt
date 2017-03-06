@@ -1,0 +1,20 @@
+1,easy,________ is the physical aspect of the computer that can be seen,a. Hardware,b. Software,c. Operating system,d. Application program,a
+2,medium,__________ is the brain of a computer.,a. Hardware,b. CPU,c. Memory,d. Disk,b
+3,hard,The speed of CPU is measured in __________.,a. megabytes,b. gigabytes,c. megahertz,d. petabytes,c
+4,medium,Which of the following computer language is used for artificial intelligence?,a. Fortran,b. Prolog,c. C,d. Cobol,b
+5,hard,Which of the following is the 1's complement of 10?,a. 01,b. 110,c. 11,d. 10,a
+6,easy,The binary system uses powers of ___________.,a. 2,b. 10,c. 8,d. 16,a
+7,hard,A name applied by Intel corp. to high speed MOS technology is called __________,a. HDLC,b. LAP,c. HMOS,d. SDLC,c
+8,medium,A single packet on a data link is known as _______,a. Path,b. Frame,c. Block,d. Group,b
+9,easy,A common boundary between two systems is called ________,a. Interdiction,b. Interface,c. Surface,d. None,b
+10,medium,The examination and changing of single bits or small groups of his within a word is called _________,a. Bit,b. Byte,c. Bit Manipulation,d. Bit Slice,c
+11,hard,Which method is used to connect a remote computer?,a. Device,b. DialUp,c. Diagnostic,d. Logic circuit,b
+12,medium,The symbols used in an assembly language are ___________,a. Codes,b. Mnemonics,c. Assembler,d. All of the above,b
+13,easy,The 2's complement of a binary no. is obtained by adding ________ to its 1's complement.,a. 0,b. 1,c. 10,d. 12,b
+14,medium,A number that is used to control the form of another number is known as ________,a. Map,b. Mask,c. Mamtossa,d. Marker,b
+15,easy,ASCII stands for,a. American standard code for information interchange,b. All purpose scientific code for information interchange,c. American security code for information interchange,d. American Scientific code for information interchange,a
+16,easy,Which device of computer operation dispenses with the use of the keyboard?,a. Joystick,b. LightPen,c. Mouse,d. Touch,c
+17,easy,The list of coded instructions is called _____,a. Program,b. Algorithm,c. Flowchart,d. Utility Programs,a
+18,medium,The arranging of data in a logical sequence is called:,a. sorting,b. classifying,c. summarizing,d. reproducing,a
+19,hard,A hashing scheme is used with,a. sequential file organization,b. direct file organization,c. indexed sequential file organization,d. partitioned file organization,b
+20,easy,1024 bytes represent a,a. MB,b. KB,c. GB,d. TB,b

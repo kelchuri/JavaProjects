@@ -1,0 +1,86 @@
+Sailor Details:
+Name                   Id                        Nation              Salary
+Caesar Gould          10089                         Macao             50000.0
+Catherine Blackburn          10071              Christmas Island             50000.0
+Wade Woods          10068       Cocos (Keeling) Islands             50000.0
+Melissa Simmons          10066                       Estonia             80000.0
+Oren Mcgee          10093                       Tokelau             80000.0
+Stephen Noel          10001         Sao Tome and Principe             50000.0
+Kirk Knox           10027                  Saudi Arabia             80000.0
+Joseph Hoffman          10081   Côte D'Ivoire (Ivory Coast)             80000.0
+Forrest Mcdowell          10047South Georgia and The South Sandwich Islands             50000.0
+Xena Emerson          10028                         Tonga             50000.0
+Timothy Small          10076                         Tonga             80000.0
+Kellie Hubbard          10041              Marshall Islands             80000.0
+Jacob Mack          10084                    Tajikistan             50000.0
+Tamekah Kelly          10012                       Germany             50000.0
+Jillian Russell          10048                       Germany             80000.0
+Vivian Jenkins          10007South Georgia and The South Sandwich Islands             80000.0
+Laura Chen          10062                          Laos             50000.0
+Eliana Rivera          10029                        Greece            300000.0
+Jordan Beck          10086                        Angola             50000.0
+Chelsea Bender          10079                       Armenia             50000.0
+Mariko Long          10060           Palestine, State of             50000.0
+Shad Cobb           10070      Turks and Caicos Islands             80000.0
+Deborah Mckenzie          10014                       Liberia             80000.0
+Griffith Watkins          10036                       Bermuda             80000.0
+Wade Woods          10068       Cocos (Keeling) Islands             50000.0
+
+
+Passenger Details:
+Name                         Nation          MoneySpent
+Ashton Bray                Singapore             97346.0
+Ashton Bray                Singapore             97346.0
+Samantha Delacruz                  Denmark             96541.0
+Lynn Bradley                   Latvia             94520.0
+Bradley Wiley                     Guam             93946.0
+Dominique Cameron                Argentina             90953.0
+Serena Galloway                  Bermuda             85773.0
+Gray West                  Zimbabwe             80483.0
+Amanda Browning                 Honduras             70820.0
+Selma Burks                    China             70012.0
+Selma Burks                    China             70012.0
+Hiroko Preston                  Albania             61247.0
+Lara Bean                   Iceland             60728.0
+Merrill Pennington                   Zambia             55301.0
+Vivien Sawyer                Macedonia             52283.0
+Carissa Curry                  Bahamas             41578.0
+Cairo Ross                     Oman             41471.0
+Fuller Byers                  Reunion             38339.0
+Dahlia David                 Viet Nam             29713.0
+Fitzgerald Hardy                    Chile             28751.0
+Rogan Grimes             Saudi Arabia             26730.0
+Zachary Campos                Swaziland             26263.0
+Jennifer Hansen                   Brunei             21152.0
+kavya                          indi             12345.0
+Deanna Holder                   Jordan             11180.0
+Maile Marsh                   Sweden              4205.0
+
+
+Port Details:
+Name                             Country   Passport Required
+WoolBay                          Romania                true
+EdenG                  Wallis and Futuna                true
+SwissHarbour                       Myanmar                true
+BatmanBay                     Montenegro                true
+WoolBay                            Aruba                true
+BatmanBay                       Thailand                true
+WoolBay                            Japan               false
+HappyPort               Pitcairn Islands               false
+BatmanBay                       Botswana               false
+WoolBay                           Brazil                true
+HappyPort                       Barbados                true
+EdenG                      Åland Islands                true
+BatmanBay               Marshall Islands                true
+WoolBay                           Sweden               false
+BatmanBay    French Southern Territories               false
+BatmanBay                     Kyrgyzstan               false
+BatmanBay                           Iraq               false
+SwissHarbour         Sao Tome and Principe               false
+SwissHarbour                    Tajikistan                true
+WoolBay                          Romania                true
+BatmanBay                 Norfolk Island               false
+SwissHarbour                       Myanmar                true
+HappyPort                    El Salvador               false
+HappyPort                       Honduras               false
+EdenG                 Dominican Republic                true
